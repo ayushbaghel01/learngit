@@ -1,0 +1,5 @@
+*.cpp
+/*.logs  
+#above syntax mean ignore all the files which are present where gitignore present and having extension .logs
+myLogs.log
+#ignore this file wherever it is present
